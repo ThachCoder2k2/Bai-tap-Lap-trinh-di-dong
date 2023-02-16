@@ -1,1 +1,1 @@
-# Bai-tap-Lap-trinh-di-dong
+# Đây là link gửi bài tập lập trình mobile
